@@ -3,8 +3,7 @@ body
   text-align: center;
   background-image: url('images/background Tarik.png');
   background-repeat: no-repeat;
-  background-position: left 75px top 1px;
-  background-size: 2250px 950px;
+  background-size: cover;
   background-color: #000000;
 }
 
